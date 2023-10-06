@@ -4,19 +4,8 @@
     "color": "EEEEEE"
   },
   "CHECKS": {
-    "prefixes": [
-      "build: ",
-      "ci: ",
-      "chore: ",
-      "docs: ",
-      "feat: ",
-      "fix: ",
-      "perf: ",
-      "refactor: ",
-      "style: ",
-      "test: "
-    ],
-    "regexp": "docs\\(v[0-9]\\): ",
+    "prefixes": [],
+    "regexp": "build|ci|chore|docs|feat|fix|perf|refactor|style|test|((v[0-9]))*: ",
     "regexpFlags": "i",
     "ignoreLabels": ["dont-check-PRs-with-this-label", "meta"]
   },
