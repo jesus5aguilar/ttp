@@ -5,7 +5,7 @@
   },
   "CHECKS": {
     "prefixes": [],
-    "regexp": "(build|ci|chore|docs|feat|fix|perf|refactor|style|test|)((v[0-9]))*: ",
+    "regexp": "(build|ci|chore|docs|feat|fix|perf|refactor|style|test)((.+))*: (.+)",
     "regexpFlags": "i",
     "ignoreLabels": ["dont-check-PRs-with-this-label", "meta"]
   },
