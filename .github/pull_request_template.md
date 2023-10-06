@@ -20,11 +20,11 @@ _Add more description to describe the changes..._
 
 Before
 :-------------------------:
-<img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg"> |
+<img width="402" src="https://myoctocat.com/assets/images/base-octocat.svg"> |
 
 After
 :-------------------------:
-<img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg"> |
+<img width="402" src="https://myoctocat.com/assets/images/base-octocat.svg"> |
 
 > [!NOTE]
 > Your pull request needs at least 1 approval.
